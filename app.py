@@ -48,4 +48,4 @@ if __name__ == '__main__':
         'Mechanical' : 1,
         'Manual and Mechanical' : 2
     }
-    app.run()
+    app.run(debug=True)
