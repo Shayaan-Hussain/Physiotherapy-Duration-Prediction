@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='base.css')}}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+    <div class="headder">
+        <h1>Physiotherapy Duration Prediction</h1>
+    </div>
+    <form method='POST' action="/predict">
+        <div class="inputs ">
+            <div class="selectpart">
+            <select name="bodypart" id="bodypart" onchange="affectedBodyPart(this.value)">
+                <option value="" id='nullpart'> --- </option>
+                <option value="Knee">Knee</option>
+                <option value="Neck">Neck</option>
+                <option value="Low Back">Low Back</option>
+                <option value="Shoulder">Shoulder</option>
+                <option value="Elbow">Elbow</option>
+                <option value="Ankle">Ankle</option>
+            </select>
+        </div>
+         <div class="bodyparts">
+          <div class="options">
+            <select name="diagnosis" id="diagnosis" style="visibility:hidden">
+                <option value="Patella Fracture" id='kneedisp'>Patella Fracture</option>
+                <option value="Cervical Radiculopathy" id='neckdisp'>Cervical Radiculopathy</option>
+                <option value="Lumbar Radiculopathy" id='lowbackdisp'>Lumbar Radiculopathy</option>
+                <option value="Frozen Shoulder" id='shoulderdisp'>Frozen Shoulder</option>
+                <option value="Jennis Elbow" id='elbowdisp'>Jennis Elbow</option>
+                <option value="Osteoarthritis" id='kneedisp1'>Osteoarthritis</option>
+                <option value="Plantar Fasciitis" id='ankledisp'>Plantar Fasciitis</option>
+            </select>
+            <select name="duration" id="duration" style="visibility:hidden">
+                <option value="Acute">Acute (0-6 weeks)</option>
+                <option value="Subacute">Subacute (6-12 weeks)</option>
+                <option value="Chronic">Chronic (More than 12 weeks)</option>
+            </select>
+            <select name="intensity" id="intensity" style="visibility:hidden">
+                <option value="1">1 on nprs</option>
+                <option value="2">2 on nprs</option>
+                <option value="3">3 on nprs</option>
+                <option value="4">4 on nprs</option>
+                <option value="5">5 on nprs</option>
+                <option value="6">6 on nprs</option>
+                <option value="7">7 on nprs</option>
+                <option value="8">8 on nprs</option>
+                <option value="9">9 on nprs</option>
+                <option value="10">10 on nprs</option>
+            </select>
+            <select name="approach" id="approach" style="visibility:hidden">
+                <option value="Manual">Manual</option>
+                <option value="Mechanical">Mechanical</option>
+                <option value="Manual and Mechanical">Manual and Mechanical</option>
+            </select>
+          </div>
+        </div>
+        <div class="submit">
+            <button type="submit" id='submit' style="visibility:hidden">submit</button>
+        </div>
+    </form>
+
+    <nav class="navbar fixed-bottom navbar-dark bg-dark">
+        <div class="bottomnav">
+            <div class="github">
+                <ul class="name">
+                    <span><i class="fab fa-github-square github"></i></span>
+                    <li ><a href="https://github.com/Shayaan-Hussain">Shayaan Hussain</a></li>
+                    <li ><a href="https://github.com/SaiManognya">Sai Manognya</a></li>
+                    <li ><a href="https://github.com/19K41A0586">Terala Hemanth</a></li>
+                </ul>
+            </div>
+            <div class="linkedin">
+                <ul class="name">
+                    <i class="fab fa-linkedin linkedin"></i>
+                    <li ><a href="https://www.linkedin.com/in/shayaan-hussain-2839b2165/">Shayaan Hussain</a></li>
+                    <li ><a href="https://www.linkedin.com/in/sai-manognya-1174111b0/">Sai Manognya</a></li>
+                    <li ><a href="https://www.linkedin.com/in/terala-hemanth-5a8311222/">Terala Hemanth</a></li>
+                </ul>
+            </div>
+        </div>
+      </nav>
+   
+    
+    <script type="text/javascript">
+        function affectedBodyPart(bodypart) {
+            document.getElementById('nullpart').style.display = 'none'
+            document.getElementById('diagnosis').style.visibility = 'visible'
+            document.getElementById('duration').style.visibility = 'visible'
+            document.getElementById('intensity').style.visibility = 'visible'
+            document.getElementById('approach').style.visibility = 'visible'
+            document.getElementById('submit').style.visibility = 'visible'
+            if(bodypart == 'Knee') {
+                document.getElementById('diagnosis').options[0].selected = 'selected';
+                document.getElementById('kneedisp').style.display = 'inline'
+                document.getElementById('neckdisp').style.display = 'none'
+                document.getElementById('lowbackdisp').style.display = 'none'
+                document.getElementById('shoulderdisp').style.display = 'none'
+                document.getElementById('elbowdisp').style.display = 'none'
+                document.getElementById('kneedisp1').style.display = 'inline'
+                document.getElementById('ankledisp').style.display = 'none'
+            } else if(bodypart == 'Neck') {
+                document.getElementById('diagnosis').options[1].selected = 'selected';
+                document.getElementById('kneedisp').style.display = 'none'
+                document.getElementById('neckdisp').style.display = 'inline'
+                document.getElementById('lowbackdisp').style.display = 'none'
+                document.getElementById('shoulderdisp').style.display = 'none'
+                document.getElementById('elbowdisp').style.display = 'none'
+                document.getElementById('kneedisp1').style.display = 'none'
+                document.getElementById('ankledisp').style.display = 'none'
+            } else if(bodypart == 'Low Back') {
+                document.getElementById('diagnosis').options[2].selected = 'selected';
+                document.getElementById('kneedisp').style.display = 'none'
+                document.getElementById('neckdisp').style.display = 'none'
+                document.getElementById('lowbackdisp').style.display = 'inline'
+                document.getElementById('shoulderdisp').style.display = 'none'
+                document.getElementById('elbowdisp').style.display = 'none'
+                document.getElementById('kneedisp1').style.display = 'none'
+                document.getElementById('ankledisp').style.display = 'none'
+            } else if(bodypart == 'Shoulder') {
+                document.getElementById('diagnosis').options[3].selected = 'selected';
+                document.getElementById('kneedisp').style.display = 'none'
+                document.getElementById('neckdisp').style.display = 'none'
+                document.getElementById('lowbackdisp').style.display = 'none'
+                document.getElementById('shoulderdisp').style.display = 'inline'
+                document.getElementById('elbowdisp').style.display = 'none'
+                document.getElementById('kneedisp1').style.display = 'none'
+                document.getElementById('ankledisp').style.display = 'none'
+            } else if(bodypart == 'Elbow') {
+                document.getElementById('diagnosis').options[4].selected = 'selected';
+                document.getElementById('kneedisp').style.display = 'none'
+                document.getElementById('neckdisp').style.display = 'none'
+                document.getElementById('lowbackdisp').style.display = 'none'
+                document.getElementById('shoulderdisp').style.display = 'none'
+                document.getElementById('elbowdisp').style.display = 'inline'
+                document.getElementById('kneedisp1').style.display = 'none'
+                document.getElementById('ankledisp').style.display = 'none'
+            } else if(bodypart == 'Ankle'){
+                document.getElementById('diagnosis').options[6].selected = 'selected';
+                document.getElementById('kneedisp').style.display = 'none'
+                document.getElementById('neckdisp').style.display = 'none'
+                document.getElementById('lowbackdisp').style.display = 'none'
+                document.getElementById('shoulderdisp').style.display = 'none'
+                document.getElementById('elbowdisp').style.display = 'none'
+                document.getElementById('kneedisp1').style.display = 'none'
+                document.getElementById('ankledisp').style.display = 'inline'
+            }
+        }
+    </script>
+</body>
+</html>

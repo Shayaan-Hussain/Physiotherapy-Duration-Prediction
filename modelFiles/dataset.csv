@@ -1,0 +1,302 @@
+Age,Affected body part,Diagnosis,Duration of pain,Intensity of pain,Treatment approach,Duration of treatment
+24,knee,patella fracture,chronic,9 on nprs,manual and mechanical,22 days
+35,knee,patella fracture,chronic,6 on nprs,manual,40 days
+26,knee,patella fracture,chronic,8 on nprs,mechanical,31 days
+21,knee,patella fracture,subacute,7 on nprs,manual and mechanical,15 days
+48,knee,patella fracture,subacute,8 on nprs,manual and mechanical,17 days
+39,knee,patella fracture,subacute,8 on nprs,manual,38 days
+52,knee,patella fracture,subacute,7 on nprs,mechanical,30 days
+65,knee,patella fracture,subacute,8 on nprs,manual and mechanical,17 days
+57,knee,patella fracture,subacute,7 on nprs,manual and mechanical,18 days
+67,knee,patella fracture,chronic,8 on nprs,manual,42 days
+27,knee,patella fracture,chronic,8 on nprs,manual,38 days
+36,knee,patella fracture,chronic,8 on nprs,manual,40 days
+22,knee,patella fracture,chronic,8 on nprs,manual and mechanical,25 days 
+65,knee,patella fracture,chronic,8 on nprs,manual and mechanical, 27 days
+35,knee,patella fracture,chronic,8 on nprs,manual and mechanical,25 days
+23,knee,patella fracture,subacute,9 on nprs,manual,30 days
+40,knee,patella fracture,subacute,7 on nprs,mechanical,30 days
+41,knee,patella fracture,subacute,6 on nprs,manual and mechanical,15 days
+26,knee,patella fracture,subacute,4 on nprs,manual and mechanical,13 days
+68,knee,patella fracture,subacute,6 on nprs,manual and mechanical,16 days
+36,knee,patella fracture,chronic,7 on nprs,mechanical,26 days
+34,knee,patella fracture,subacute,9 on nprs,mechanical,22 days
+37,knee,patella fracture,subacute,5 on nprs,manual and mechanical,14 days
+53,knee,patella fracture,chronic,6 on nprs,manual and mechanical,20 days
+72,knee,patella fracture,subacute,7 on nprs,manual,45 days
+32,knee,patella fracture,subacute,8 on nprs,manual and mechanical,20 days
+59,knee,patella fracture,chronic,5 on nprs,manual and mechanical,25 days
+59,neck,cervical radiculopathy,acute,6 on nprs,manual,15 days
+23,neck,cervical radiculopathy,acute,9 on nprs,manual,16 days
+64,neck,cervical radiculopathy,acute,4 on nprs,manual,15 days
+34,neck,cervical radiculopathy,acute,5 on nprs,manual,15 days
+45,neck,cervical radiculopathy,acute,8 on nprs,manual,16 days
+52,neck,cervical radiculopathy,acute,4 on nprs,mechanical,10 days
+26,neck,cervical radiculopathy,acute,5 on nprs,mechanical,10 days
+36,neck,cervical radiculopathy,acute,6 on nprs,mechanical,11 days
+32,neck,cervical radiculopathy,acute,8 on nprs,mechanical,11 days
+27,neck,cervical radiculopathy,acute,7 on nprs,mechanical,11 days
+29,neck,cervical radiculopathy,acute,5 on nprs,manual and mechanical,5 days
+33,neck,cervical radiculopathy,acute,9 on nprs,manual and mechanical,6 days
+35,neck,cervical radiculopathy,acute,7 on nprs,manual and mechanical,6 days
+62,neck,cervical radiculopathy,acute,8 on nprs,manual and mechanical,6 days
+59,neck,cervical radiculopathy,acute,8 on nprs,manual and mechanical,6 days
+24,neck,cervical radiculopathy,acute,7 on nprs,manual and mechanical,6 days
+46,neck,cervical radiculopathy,acute,6 on nprs,manual and mechanical,5 days
+49,neck,cervical radiculopathy,acute,7 on nprs,manual,6 days
+32,neck,cervical radiculopathy,acute,8 on nprs,manual and mechanical,6 days
+29,neck,cervical radiculopathy,subacute,6 on nprs,manual,17 days
+40,neck,cervical radiculopathy,subacute,6 on nprs,manual,17 days
+55,neck,cervical radiculopathy,subacute,5 on nprs,manual,16 days
+43,neck,cervical radiculopathy,subacute,6 on nprs,manual,17 days
+48,neck,cervical radiculopathy,subacute,5 on nprs,manual,16 days
+26,neck,cervical radiculopathy,subacute,7 on nprs,manual,17 days
+57,neck,cervical radiculopathy,subacute,6 on nprs,manual,16 days
+28,neck,cervical radiculopathy,subacute,5 on nprs,mechanical,12 days
+34,neck,cervical radiculopathy,subacute,6 on nprs,mechanical,13 days
+42,neck,cervical radiculopathy,subacute,5 on nprs,mechanical,12 days
+36,neck,cervical radiculopathy,subacute,5 on nprs,mechanical,12 days
+37,neck,cervical radiculopathy,subacute,6 on nprs,mechanical,13 days
+48,neck,cervical radiculopathy,subacute,7 on nprs,mechanical,13 days
+42,neck,cervical radiculopathy,subacute,7 on nprs,manual and mechanical,10 days
+51,neck,cervical radiculopathy,subacute,6 on nprs,manual and mechanical,8 days
+82,neck,cervical radiculopathy,subacute,7 on nprs,manual and mechanical,10 days
+53,neck,cervical radiculopathy,subacute,7 on nprs,manual and mechanical,10 days
+24,neck,cervical radiculopathy,subacute,7 on nprs,manual and mechanical,10 days
+38,neck,cervical radiculopathy,subacute,6 on nprs,manual and mechanical,8 days
+47,neck,cervical radiculopathy,subacute,6 on nprs,manual and mechanical,8 days
+56,neck,cervical radiculopathy,chronic,7 on nprs,manual,17 days
+29,neck,cervical radiculopathy,chronic,5 on nprs,manual,16 days
+36,neck,cervical radiculopathy,chronic,4 on nprs,manual,16 days
+66,neck,cervical radiculopathy,chronic,5 on nprs,manual,16 days
+72,neck,cervical radiculopathy,chronic,6 on nprs,manual,16 days
+49,neck,cervical radiculopathy,chronic,5 on nprs,mechanical,12 days
+31,neck,cervical radiculopathy,chronic,5 on nprs,mechanical,12 days
+48,neck,cervical radiculopathy,chronic,6 on nprs,mechanical,13 days
+57,neck,cervical radiculopathy,chronic,5 on nprs,manual and mechanical,10 days
+29,neck,cervical radiculopathy,chronic,5 on nprs,manual and mechanical,8 days
+27,neck,cervical radiculopathy,chronic,6 on nprs,manual and mechanical,8 days
+81,neck,cervical radiculopathy,chronic,6 on nprs,manual and mechanical,10 days
+49,neck,cervical radiculopathy,chronic,7 on nprs,manual and mechanical,10 days
+60,neck,cervical radiculopathy,chronic,6 on nprs,manual and mechanical,8 days
+29,low back,lumbar radiculopathy,acute,9 on nprs,manual,10 days
+42,low back,lumbar radiculopathy,acute,9 on nprs,manual,10 days
+37,low back,lumbar radiculopathy,acute,9 on nprs,manual,10 days
+62,low back,lumbar radiculopathy,acute,8 on nprs,manual,9 days
+71,low back,lumbar radiculopathy,acute,8 on nprs,manual,9 days
+35,low back,lumbar radiculopathy,acute,9 on nprs,mechanical,8 days
+28,low back,lumbar radiculopathy,acute,9 on nprs,mechanical,8 days
+24,low back,lumbar radiculopathy,acute,9 on nprs,mechanical,8 days
+32,low back,lumbar radiculopathy,acute,8 on nprs,mechanical,7 days
+48,low back,lumbar radiculopathy,acute,8 on nprs,mechanical,7 days
+52,low back,lumbar radiculopathy,acute,9 on nprs,manual and mechanical,6 days
+33,low back,lumbar radiculopathy,acute,9 on nprs,manual and mechanical,6 days
+57,low back,lumbar radiculopathy,acute,9 on nprs,manual and mechanical,6 days
+22,low back,lumbar radiculopathy,acute,8 on nprs,manual and mechanical,5 days
+34,low back,lumbar radiculopathy,acute,8 on nprs,manual and mechanical,5 days
+28,low back,lumbar radiculopathy,subacute,8 on nprs,manual,17 days
+55,low back,lumbar radiculopathy,subacute,7 on nprs,manual,12 days
+35,low back,lumbar radiculopathy,subacute,8 on nprs,manual,11 days
+30,low back,lumbar radiculopathy,subacute,6 on nprs,manual,12 days
+47,low back,lumbar radiculopathy,subacute,8 on nprs,manual,11 days
+36,low back,lumbar radiculopathy,subacute,7 on nprs,mechanical,10 days
+53,low back,lumbar radiculopathy,subacute,4 on nprs,mechanical,9 days
+60,low back,lumbar radiculopathy,subacute,8 on nprs,mechanical,10 days
+57,low back,lumbar radiculopathy,subacute,7 on nprs,mechanical,10 days
+40,low back,lumbar radiculopathy,subacute,6 on nprs,mechanical,9 days
+37,low back,lumbar radiculopathy,subacute,8 on nprs,manual and mechanical,6 days
+42,low back,lumbar radiculopathy,subacute,8 on nprs,manual and mechanical,6 days
+27,low back,lumbar radiculopathy,subacute,7 on nprs,manual and mechanical,5 days
+48,low back,lumbar radiculopathy,subacute,8 on nprs,manual and mechanical,6 days
+24,low back,lumbar radiculopathy,subacute,8 on nprs,manual and mechanical,6 days
+50,low back,lumbar radiculopathy,chronic,8 on nprs,manual,13 days
+47,low back,lumbar radiculopathy,chronic,8 on nprs,manual,13 days
+34,low back,lumbar radiculopathy,chronic,7 on nprs,manual,12 days
+42,low back,lumbar radiculopathy,chronic,8 on nprs,manual,13 days
+28,low back,lumbar radiculopathy,chronic,8 on nprs,manual,13 days
+38,low back,lumbar radiculopathy,chronic,8 on nprs,mechanical,11 days
+44,low back,lumbar radiculopathy,chronic,7 on nprs,mechanical,10 days
+39,low back,lumbar radiculopathy,chronic,6 on nprs,mechanical,10 days
+22,low back,lumbar radiculopathy,chronic,7 on nprs,mechanical,11 days
+49,low back,lumbar radiculopathy,chronic,8 on nprs,mechanical,11 days
+70,low back,lumbar radiculopathy,chronic,8 on nprs,manual and mechanical,7 days
+31,low back,lumbar radiculopathy,chronic,7 on nprs,manual and mechanical,6 days
+52,low back,lumbar radiculopathy,chronic,6 on nprs,manual and mechanical,6 days
+61,low back,lumbar radiculopathy,chronic,7 on nprs,manual and mechanical,7 days
+40,low back,lumbar radiculopathy,chronic,8 on nprs,manual and mechanical,7 days
+54,low back,lumbar radiculopathy,chronic,9 on nprs,manual and mechanical,7 days
+60,shoulder,frozen shoulder,acute,7 on nprs,manual,17 days
+62,shoulder,frozen shoulder,acute,6 on nprs,manual,16 days
+58,shoulder,frozen shoulder,acute,7 on nprs,manual,17 days
+71,shoulder,frozen shoulder,acute,7 on nprs,manual,17 days
+59,shoulder,frozen shoulder,acute,6 on nprs,manual,16 days
+64,shoulder,frozen shoulder,acute,7 on nprs,manual,17 days
+31,shoulder,frozen shoulder,acute,8 on nprs,mechanical,16 days
+47,shoulder,frozen shoulder,acute,7 on nprs,mechanical,15 days
+39,shoulder,frozen shoulder,acute,8 on nprs,mechanical,16 days
+24,shoulder,frozen shoulder,acute,7 on nprs,mechanical,15 days
+32,shoulder,frozen shoulder,acute,8 on nprs,mechanical,16 days
+52,shoulder,frozen shoulder,acute,8 on nprs,manual and mechanical,8 days
+81,shoulder,frozen shoulder,acute,6 on nprs,manual and mechanical,7 days
+60,shoulder,frozen shoulder,acute,8 on nprs,manual and mechanical,8 days
+33,shoulder,frozen shoulder,acute,7 on nprs,manual and mechanical,7 days
+50,shoulder,frozen shoulder,acute,8 on nprs,manual and mechanical,8 days
+41,shoulder,frozen shoulder,acute,8 on nprs,manual and mechanical,8 days
+28,shoulder,frozen shoulder,subacute,8 on nprs,manual,19 dats
+34,shoulder,frozen shoulder,subacute,7 on nprs,manual,18 days
+52,shoulder,frozen shoulder,subacute,6 on nprs,manual,18 days
+47,shoulder,frozen shoulder,subacute,8 on nprs,manual,19 days
+49,shoulder,frozen shoulder,subacute,7 on nprs,manual,18 days
+55,shoulder,frozen shoulder,subacute,6 on nprs,mechanical,16 days
+35,shoulder,frozen shoulder,subacute,6 on nprs,mechanical,15 days
+49,shoulder,frozen shoulder,subacute,5 on nprs,mechanical,14 days
+52,shoulder,frozen shoulder,subacute,8 on nprs,mechanical,15 days
+40,shoulder,frozen shoulder,subacute,8 on nprs,mechanical,15 days
+33,shoulder,frozen shoulder,subacute,7 on nprs,manual and mechanical,9 days
+36,shoulder,frozen shoulder,subacute,8 on nprs,manual and mechanical,8 days
+39,shoulder,frozen shoulder,subacute,9 on nprs,manual and mechanical,8 days
+47,shoulder,frozen shoulder,subacute,5 on nprs,manual and mechanical,8 days
+29,shoulder,frozen shoulder,subacute,8 on nprs,manual and mechanical,9 days
+62,shoulder,frozen shoulder,chronic,7 on nprs,manual,18 days
+69,shoulder,frozen shoulder,chronic,6 on nprs,manual,18 days
+70,shoulder,frozen shoulder,chronic,7 on nprs,manual,19 days
+81,shoulder,frozen shoulder,chronic,8 on nprs,manual,18 days
+39,shoulder,frozen shoulder,chronic,8 on nprs,manual,18 days
+88,shoulder,frozen shoulder,chronic,7 on nprs,mechanical,17 days
+49,shoulder,frozen shoulder,chronic,9 on nprs,mechanical,16 days
+54,shoulder,frozen shoulder,chronic,6 on nprs,mechanical,16 days
+60,shoulder,frozen shoulder,chronic,8 on nprs,mechanical,17 days
+34,shoulder,frozen shoulder,chronic,9 on nprs,mechanical,17 days
+40,shoulder,frozen shoulder,chronic,8 on nprs,manual and mechanical,10 days
+37,shoulder,frozen shoulder,chronic,8 on nprs,manual and mechanical,10 days
+54,shoulder,frozen shoulder,chronic,7 on nprs,manual and mechanical,9 days
+47,shoulder,frozen shoulder,chronic,9 on nprs,manual and mechanical,10 days
+45,shoulder,frozen shoulder,chronic,8 on nprs,manual and mechanical,9 days
+24,elbow,jennis elbow,acute,6 on nprs,manual,19 days
+31,elbow,jennis elbow,acute,7 on nprs,manual,11 days
+28,elbow,jennis elbow,acute,8 on nprs,manual,12 days
+27,elbow,jennis elbow,acute,8 on nprs,manual,12 days
+42,elbow,jennis elbow,acute,8 on nprs,manual,11 days
+29,elbow,jennis elbow,acute,8 on nprs,mechanical,10 days
+30,elbow,jennis elbow,acute,7 on nprs,mechanical,9 days
+34,elbow,jennis elbow,acute,4 on nprs,mechanical,9 days
+37,elbow,jennis elbow,acute,8 on nprs,mechanical,10 days
+20,elbow,jennis elbow,acute,5 on nprs,mechanical,9 days
+41,elbow,jennis elbow,acute,9 on nprs,manual and mechanical,7 days
+47,elbow,jennis elbow,acute,8 on nprs,manual and mechanical,7 days
+22,elbow,jennis elbow,acute,6 on nprs,manual and mechanical,6 days
+39,elbow,jennis elbow,acute,7 on nprs,manual and mechanical,7 days
+34,elbow,jennis elbow,acute,5 on nprs,manual and mechanical,6 days
+29,elbow,jennis elbow,subacute,9 on nprs,manual,12 days
+20,elbow,jennis elbow,subacute,8 on nprs,manual,11 days
+41,elbow,jennis elbow,subacute,8 on nprs,manual,11 days
+30,elbow,jennis elbow,subacute,6 on nprs,manual,11 days
+36,elbow,jennis elbow,subacute,9 on nprs,manual,12 days
+43,elbow,jennis elbow,subacute,5 on nprs,mechanical,10 days
+50,elbow,jennis elbow,subacute,7 on nprs,mechanical,11 days
+29,elbow,jennis elbow,subacute,7 on nprs,mechanical,11 days
+22,elbow,jennis elbow,subacute,8 on nprs,mechanical,11 days
+52,elbow,jennis elbow,subacute,8 on nprs,mechanical,11 days
+37,elbow,jennis elbow,subacute,8 on nprs,manual and mechanical,9 days
+48,elbow,jennis elbow,subacute,7 on nprs,manual and mechanical,8 days
+40,elbow,jennis elbow,subacute,8 on nprs,manual and mechanical,9 days
+41,elbow,jennis elbow,subacute,6 on nprs,manual and mechanical,8 days
+38,elbow,jennis elbow,subacute,9 on nprs,manual and mechanical,9 days
+31,elbow,jennis elbow,chronic,9 on nprs,manual,13 days
+29,elbow,jennis elbow,chronic,8 on nprs,manual,13 days
+24,elbow,jennis elbow,chronic,6 on nprs,manual,12 days
+48,elbow,jennis elbow,chronic,6 on nprs,manual,12 days
+51,elbow,jennis elbow,chronic,9 on nprs,manual,13 days
+57,elbow,jennis elbow,chronic,9 on nprs,mechanical,11 days
+48,elbow,jennis elbow,chronic,8 on nprs,mechanical,10 days
+54,elbow,jennis elbow,chronic,8 on nprs,mechanical,10 days
+28,elbow,jennis elbow,chronic,8 on nprs,mechanical,10 days
+31,elbow,jennis elbow,chronic,8 on nprs,mechanical,10 days
+42,elbow,jennis elbow,chronic,9 on nprs,manual and mechanical,9 days
+29,elbow,jennis elbow,chronic,7 on nprs,manual and mechanical,8 days
+50,elbow,jennis elbow,chronic,6 on nprs,manual and mechanical,8 days
+32,elbow,jennis elbow,chronic,8 on nprs,manual and mechanical,9 days
+40,elbow,jennis elbow,chronic,8 on nprs,manual and mechanical,9 days
+,knee,osteoarthritis,acute,8 on nprs,manual,12 days
+,knee,osteoarthritis,acute,7 on nprs,manual,11 days
+,knee,osteoarthritis,acute,7 on nprs,manual,11 days
+,knee,osteoarthritis,acute,7 on nprs,manual,12 days
+,knee,osteoarthritis,acute,8 on nprs,manual,11 days
+,knee,osteoarthritis,acute,9 on nprs,mechanical,10 days
+,knee,osteoarthritis,acute,8 on nprs,mechanical,9 days
+,knee,osteoarthritis,acute,8 on nprs,mechanical,9 days
+,knee,osteoarthritis,acute,8 on nprs,mechanical,9 days
+,knee,osteoarthritis,acute,9 on nprs,mechanical,10 days
+,knee,osteoarthritis,acute,9 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,acute,10 on nprs,manual and mechanical,8 days
+,knee,osteoarthritis,acute,6 on nprs,manual and mechanical,8 days
+,knee,osteoarthritis,acute,8 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,acute,8 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,subacute,7 on nprs,manual,13 days
+,knee,osteoarthritis,subacute,6 on nprs,manual,12 days
+,knee,osteoarthritis,subacute,6 on nprs,manual,12 days
+,knee,osteoarthritis,subacute,7 on nprs,manual,13 days
+,knee,osteoarthritis,subacute,8 on nprs,manual,13 days
+,knee,osteoarthritis,subacute,8 on nprs,mechanical,10 days
+,knee,osteoarthritis,subacute,9 on nprs,mechanical,11 days
+,knee,osteoarthritis,subacute,9 on nprs,mechanical,11 days
+,knee,osteoarthritis,subacute,9 on nprs,mechanical,11 days
+,knee,osteoarthritis,subacute,8 on nprs,mechanical,10 days
+,knee,osteoarthritis,subacute,8 on nprs,manual and mechanical,8 days
+,knee,osteoarthritis,subacute,9 on nprs,manual and mechanical,8 days
+,knee,osteoarthritis,subacute,6 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,subacute,6 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,chronic,8 on nprs,manual and mechanical,8 days
+,knee,osteoarthritis,chronic,9 on nprs,manual,13 days
+,knee,osteoarthritis,chronic,7 on nprs,manual,12 days
+,knee,osteoarthritis,chronic,7 on nprs,manual,12 days
+,knee,osteoarthritis,chronic,7 on nprs,manual,12 days
+,knee,osteoarthritis,chronic,8 on nprs,manual,13 days
+,knee,osteoarthritis,chronic,7 on nprs,mechanical,11 days
+,knee,osteoarthritis,chronic,8 on nprs,mechanical,11 days
+,knee,osteoarthritis,chronic,8 on nprs,mechanical,11 days
+,knee,osteoarthritis,chronic,8 on nprs,mechanical,11 days
+,knee,osteoarthritis,chronic,7 on nprs,mechanical,11 days
+,knee,osteoarthritis,chronic,9 on nprs,manual and mechanical,8 days
+,knee,osteoarthritis,chronic,9 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,chronic,6 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,chronic,8 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,chronic,8 on nprs,manual and mechanical,7 days
+,knee,osteoarthritis,chronic,7 on nprs,manual and mechanical,7 days
+28,ankle,plantar fasciitis,acute,7 on nprs,manual,11 days
+42,ankle,plantar fasciitis,acute,7 on nprs,manual,11 days
+27,ankle,plantar fasciitis,acute,8 on nprs,manual,12 days
+29,ankle,plantar fasciitis,acute,6 on nprs,manual,11 days
+44,ankle,plantar fasciitis,acute,7 on nprs,mechanical,10 days
+32,ankle,plantar fasciitis,acute,7 on nprs,mechanical,10 days
+28,ankle,plantar fasciitis,acute,7 on nprs,mechanical,10 days
+20,ankle,plantar fasciitis,acute,8 on nprs,mechanical,11 days
+45,ankle,plantar fasciitis,acute,8 on nprs,manual and mechanical,9 days
+34,ankle,plantar fasciitis,acute,7 on nprs,manual and mechanical,8 days
+38,ankle,plantar fasciitis,acute,8 on nprs,manual and mechanical,9 days
+30,ankle,plantar fasciitis,acute,7 on nprs,manual and mechanical,8 days
+46,ankle,plantar fasciitis,acute,7 on nprs,manual and mechanical,8 days
+27,ankle,plantar fasciitis,subacute,6 on nprs,manual,12 days
+32,ankle,plantar fasciitis,subacute,7 on nprs,manual,12 days
+47,ankle,plantar fasciitis,subacute,6 on nprs,manual,11 days
+49,ankle,plantar fasciitis,subacute,6 on nprs,manual,11 days
+50,ankle,plantar fasciitis,subacute,6 on nprs,mechanical,11 days
+38,ankle,plantar fasciitis,subacute,8 on nprs,mechanical,10 days
+41,ankle,plantar fasciitis,subacute,8 on nprs,mechanical,10 days
+47,ankle,plantar fasciitis,subacute,7 on nprs,mechanical,9 days
+28,ankle,plantar fasciitis,subacute,6 on nprs,manual and mechanical,8 days
+39,ankle,plantar fasciitis,subacute,8 on nprs,manual and mechanical,9 days
+25,ankle,plantar fasciitis,subacute,4 on nprs,manual and mechanical,8 days
+30,ankle,plantar fasciitis,subacute,8 on nprs,manual and mechanical,8 days
+40,ankle,plantar fasciitis,subacute,8 on nprs,manual and mechanical,8 days
+31,ankle,plantar fasciitis,chronic,8 on nprs,manual,13 days
+25,ankle,plantar fasciitis,chronic,7 on nprs,manual,12 days
+21,ankle,plantar fasciitis,chronic,7 on nprs,manual,12 days
+33,ankle,plantar fasciitis,chronic,8 on nprs,mechanical,11 days
+52,ankle,plantar fasciitis,chronic,8 on nprs,mechanical,11 days
+47,ankle,plantar fasciitis,chronic,6 on nprs,mechanical,10 days
+45,ankle,plantar fasciitis,chronic,6 on nprs,mechanical,10 days
+38,ankle,plantar fasciitis,chronic,6 on nprs,manual and mechanical,8 days
+31,ankle,plantar fasciitis,chronic,8 on nprs,manual and mechanical,9 days
+45,ankle,plantar fasciitis,chronic,8 on nprs,manual and mechanical,9 days
+40,ankle,plantar fasciitis,chronic,7 on nprs,manual and mechanical,8 days

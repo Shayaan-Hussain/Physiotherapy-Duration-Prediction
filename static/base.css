@@ -1,0 +1,78 @@
+body{
+    background: #E6DADA;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #274046, #E6DADA);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #274046, #E6DADA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 81vh;
+}
+.options {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2em;
+}
+i.fab.fa-github-square.github {
+    font-size: 40px;
+    color: aliceblue;
+}
+i.fab.fa-linkedin.linkedin {
+    font-size: 40px;
+    color: aliceblue;
+}
+.name {
+    color: white;
+}
+.bottomnav {
+    display: flex;
+}
+ul {
+    list-style-type: none;
+  }
+select {
+    width: 13rem;
+    padding: 0.5rem;
+    border: 5px black;
+    border-radius: 6px;
+    margin-right: 15px;
+}
+.headder{
+    margin-top: 6%;
+    text-align: center;
+}
+.selectpart {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 6%;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    text-align: center;
+}
+.submit button {
+    background: #00416A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+}
+@media only screen and (max-width:1000px) {
+    .options{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-content: space-evenly;
+        justify-items: center;
+        grid-gap: 15px;
+    }
+}
+@media only screen and (max-width:530px){
+    .options{
+        grid-template-columns: 1fr;
+    }
+}
+
+a:link {color: #ffffff;}
+a:visited {color: #ffffff;}
+a:hover {color: #ffffff;}
