@@ -1,3 +1,4 @@
+cython==0.29.24
 pickle-mixin==1.0.2
 pickleshare==0.7.5
 Flask==2.0.1
