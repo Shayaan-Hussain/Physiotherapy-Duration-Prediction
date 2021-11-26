@@ -1,4 +1,4 @@
-from flask import Flask,render_template,request
+from flask import Flask,render_template,request, redirect
 import pickle as pkl
 import numpy as np
 app = Flask(__name__)
@@ -40,6 +40,8 @@ def predict():
         features = features.reshape(1, -1)
         pred = int(model.predict(features)[0])
         prediction = f'{pred} days of physiotherapy is recommended'
+    else:
+        return redirect('/')
     return render_template('result.html', 
                             bodypart=bodypart,
                             intensity=intensity,
