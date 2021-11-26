@@ -50,5 +50,9 @@ def predict():
                             duration=duration,
                             pred=prediction)
 
+@app.errorhandler(404)
+def invalid_routes(e):
+    return render_template('notFound.html')
+
 if __name__ == '__main__':
     app.run()
