@@ -172,51 +172,51 @@ Age,Affected body part,Diagnosis,Duration of pain,Intensity of pain,Treatment ap
 54,shoulder,frozen shoulder,chronic,7 on nprs,manual and mechanical,9 days
 47,shoulder,frozen shoulder,chronic,9 on nprs,manual and mechanical,10 days
 45,shoulder,frozen shoulder,chronic,8 on nprs,manual and mechanical,9 days
-24,elbow,jennis elbow,acute,6 on nprs,manual,19 days
-31,elbow,jennis elbow,acute,7 on nprs,manual,11 days
-28,elbow,jennis elbow,acute,8 on nprs,manual,12 days
-27,elbow,jennis elbow,acute,8 on nprs,manual,12 days
-42,elbow,jennis elbow,acute,8 on nprs,manual,11 days
-29,elbow,jennis elbow,acute,8 on nprs,mechanical,10 days
-30,elbow,jennis elbow,acute,7 on nprs,mechanical,9 days
-34,elbow,jennis elbow,acute,4 on nprs,mechanical,9 days
-37,elbow,jennis elbow,acute,8 on nprs,mechanical,10 days
-20,elbow,jennis elbow,acute,5 on nprs,mechanical,9 days
-41,elbow,jennis elbow,acute,9 on nprs,manual and mechanical,7 days
-47,elbow,jennis elbow,acute,8 on nprs,manual and mechanical,7 days
-22,elbow,jennis elbow,acute,6 on nprs,manual and mechanical,6 days
-39,elbow,jennis elbow,acute,7 on nprs,manual and mechanical,7 days
-34,elbow,jennis elbow,acute,5 on nprs,manual and mechanical,6 days
-29,elbow,jennis elbow,subacute,9 on nprs,manual,12 days
-20,elbow,jennis elbow,subacute,8 on nprs,manual,11 days
-41,elbow,jennis elbow,subacute,8 on nprs,manual,11 days
-30,elbow,jennis elbow,subacute,6 on nprs,manual,11 days
-36,elbow,jennis elbow,subacute,9 on nprs,manual,12 days
-43,elbow,jennis elbow,subacute,5 on nprs,mechanical,10 days
-50,elbow,jennis elbow,subacute,7 on nprs,mechanical,11 days
-29,elbow,jennis elbow,subacute,7 on nprs,mechanical,11 days
-22,elbow,jennis elbow,subacute,8 on nprs,mechanical,11 days
-52,elbow,jennis elbow,subacute,8 on nprs,mechanical,11 days
-37,elbow,jennis elbow,subacute,8 on nprs,manual and mechanical,9 days
-48,elbow,jennis elbow,subacute,7 on nprs,manual and mechanical,8 days
-40,elbow,jennis elbow,subacute,8 on nprs,manual and mechanical,9 days
-41,elbow,jennis elbow,subacute,6 on nprs,manual and mechanical,8 days
-38,elbow,jennis elbow,subacute,9 on nprs,manual and mechanical,9 days
-31,elbow,jennis elbow,chronic,9 on nprs,manual,13 days
-29,elbow,jennis elbow,chronic,8 on nprs,manual,13 days
-24,elbow,jennis elbow,chronic,6 on nprs,manual,12 days
-48,elbow,jennis elbow,chronic,6 on nprs,manual,12 days
-51,elbow,jennis elbow,chronic,9 on nprs,manual,13 days
-57,elbow,jennis elbow,chronic,9 on nprs,mechanical,11 days
-48,elbow,jennis elbow,chronic,8 on nprs,mechanical,10 days
-54,elbow,jennis elbow,chronic,8 on nprs,mechanical,10 days
-28,elbow,jennis elbow,chronic,8 on nprs,mechanical,10 days
-31,elbow,jennis elbow,chronic,8 on nprs,mechanical,10 days
-42,elbow,jennis elbow,chronic,9 on nprs,manual and mechanical,9 days
-29,elbow,jennis elbow,chronic,7 on nprs,manual and mechanical,8 days
-50,elbow,jennis elbow,chronic,6 on nprs,manual and mechanical,8 days
-32,elbow,jennis elbow,chronic,8 on nprs,manual and mechanical,9 days
-40,elbow,jennis elbow,chronic,8 on nprs,manual and mechanical,9 days
+24,elbow,tennis elbow,acute,6 on nprs,manual,19 days
+31,elbow,tennis elbow,acute,7 on nprs,manual,11 days
+28,elbow,tennis elbow,acute,8 on nprs,manual,12 days
+27,elbow,tennis elbow,acute,8 on nprs,manual,12 days
+42,elbow,tennis elbow,acute,8 on nprs,manual,11 days
+29,elbow,tennis elbow,acute,8 on nprs,mechanical,10 days
+30,elbow,tennis elbow,acute,7 on nprs,mechanical,9 days
+34,elbow,tennis elbow,acute,4 on nprs,mechanical,9 days
+37,elbow,tennis elbow,acute,8 on nprs,mechanical,10 days
+20,elbow,tennis elbow,acute,5 on nprs,mechanical,9 days
+41,elbow,tennis elbow,acute,9 on nprs,manual and mechanical,7 days
+47,elbow,tennis elbow,acute,8 on nprs,manual and mechanical,7 days
+22,elbow,tennis elbow,acute,6 on nprs,manual and mechanical,6 days
+39,elbow,tennis elbow,acute,7 on nprs,manual and mechanical,7 days
+34,elbow,tennis elbow,acute,5 on nprs,manual and mechanical,6 days
+29,elbow,tennis elbow,subacute,9 on nprs,manual,12 days
+20,elbow,tennis elbow,subacute,8 on nprs,manual,11 days
+41,elbow,tennis elbow,subacute,8 on nprs,manual,11 days
+30,elbow,tennis elbow,subacute,6 on nprs,manual,11 days
+36,elbow,tennis elbow,subacute,9 on nprs,manual,12 days
+43,elbow,tennis elbow,subacute,5 on nprs,mechanical,10 days
+50,elbow,tennis elbow,subacute,7 on nprs,mechanical,11 days
+29,elbow,tennis elbow,subacute,7 on nprs,mechanical,11 days
+22,elbow,tennis elbow,subacute,8 on nprs,mechanical,11 days
+52,elbow,tennis elbow,subacute,8 on nprs,mechanical,11 days
+37,elbow,tennis elbow,subacute,8 on nprs,manual and mechanical,9 days
+48,elbow,tennis elbow,subacute,7 on nprs,manual and mechanical,8 days
+40,elbow,tennis elbow,subacute,8 on nprs,manual and mechanical,9 days
+41,elbow,tennis elbow,subacute,6 on nprs,manual and mechanical,8 days
+38,elbow,tennis elbow,subacute,9 on nprs,manual and mechanical,9 days
+31,elbow,tennis elbow,chronic,9 on nprs,manual,13 days
+29,elbow,tennis elbow,chronic,8 on nprs,manual,13 days
+24,elbow,tennis elbow,chronic,6 on nprs,manual,12 days
+48,elbow,tennis elbow,chronic,6 on nprs,manual,12 days
+51,elbow,tennis elbow,chronic,9 on nprs,manual,13 days
+57,elbow,tennis elbow,chronic,9 on nprs,mechanical,11 days
+48,elbow,tennis elbow,chronic,8 on nprs,mechanical,10 days
+54,elbow,tennis elbow,chronic,8 on nprs,mechanical,10 days
+28,elbow,tennis elbow,chronic,8 on nprs,mechanical,10 days
+31,elbow,tennis elbow,chronic,8 on nprs,mechanical,10 days
+42,elbow,tennis elbow,chronic,9 on nprs,manual and mechanical,9 days
+29,elbow,tennis elbow,chronic,7 on nprs,manual and mechanical,8 days
+50,elbow,tennis elbow,chronic,6 on nprs,manual and mechanical,8 days
+32,elbow,tennis elbow,chronic,8 on nprs,manual and mechanical,9 days
+40,elbow,tennis elbow,chronic,8 on nprs,manual and mechanical,9 days
 ,knee,osteoarthritis,acute,8 on nprs,manual,12 days
 ,knee,osteoarthritis,acute,7 on nprs,manual,11 days
 ,knee,osteoarthritis,acute,7 on nprs,manual,11 days

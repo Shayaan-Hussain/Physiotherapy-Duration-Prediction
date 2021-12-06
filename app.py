@@ -8,7 +8,7 @@ diagnosisMap = {
     'Cervical Radiculopathy' : 1,
     'Lumbar Radiculopathy' : 2,
     'Frozen Shoulder' : 3,
-    'Jennis Elbow' : 4,
+    'Tennis Elbow' : 4,
     'Osteoarthritis' : 5,
     'Plantar Fasciitis' : 6
 }
